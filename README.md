@@ -16,6 +16,6 @@ if using a mobile device install the apk
 
 Click on the heart icon at the top right corner to add the blog to favourite list
 
-#h2 Video of the app:
+ Video of the app:
 https://github.com/areej-f/Assignment_87/assets/142482967/5f0cfbe5-12b9-481f-b031-eb2de4f0dbd3
 
